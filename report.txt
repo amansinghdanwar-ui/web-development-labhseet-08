@@ -1,0 +1,37 @@
+PROJECT REPORT
+
+Project Title: BookNest Online Book Store
+
+Project Objective:
+The objective of this project is to design and develop a dynamic and responsive online book store website using HTML, CSS, JavaScript and PHP. The website allows users to view available books, search books, add books to a cart, and submit an order/contact form.
+
+Design Approach / UI-UX Decisions:
+1. A clean and modern layout is used with a sticky navigation bar.
+2. The hero section contains a clear headline and call-to-action button.
+3. Books are displayed in responsive cards with category, author and price details.
+4. A search box helps users quickly filter books.
+5. The website is mobile friendly using CSS media queries.
+6. Simple color contrast and readable typography improve accessibility.
+
+Technologies Used:
+1. HTML5 for webpage structure.
+2. CSS3 for layout, styling and responsiveness.
+3. JavaScript for cart, search, menu and form validation.
+4. PHP for dynamic book display and order form processing.
+5. XAMPP/WAMP/LAMP server environment for running PHP files.
+
+Files Included:
+1. index.php - Main website page.
+2. order.php - Displays submitted order details.
+3. css/style.css - Website styling and responsive design.
+4. js/script.js - Interactive functionality.
+5. report.txt - Project report.
+
+How to Run:
+1. Install XAMPP/WAMP/LAMP.
+2. Copy the project folder into the htdocs folder.
+3. Start Apache server.
+4. Open browser and visit: http://localhost/online_book_store_project/index.php
+
+Output Screenshots:
+Add screenshots of the homepage, book section, cart section and order submission page in the final report document after running the project.
